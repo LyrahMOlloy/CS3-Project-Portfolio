@@ -46,11 +46,11 @@
 
 | Step | What happens? | Person/Role Involved |
 | ---- | ------------- | -------------------- |
-| 1    |               |                      |
-| 2    |               |                      |
-| 3    |               |                      |
-| 4    |               |                      |
-| 5    |               |                      |
+| 1    | Parents give money to canteen| Parents, Canteen |
+| 2    | Canteen receives money and writes the amount on a notebook| Canteen, Student   |
+| 3    | Student buys food from the canteen | Canteen, Student   |
+| 4    | Canteen records each and every one of the student's purchases in the canteen on the notebook| Canteen, Student  |
+| 5    | If you have debt and or “utang”, the canteen will ask you to pay the debt, if the debt stays unpaid for long, they will not let you continue to purchase until you pay the debt.     | Canteen, Student  |
 
 ---
 
