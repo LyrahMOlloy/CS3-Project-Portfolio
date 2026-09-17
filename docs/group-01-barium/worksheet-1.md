@@ -58,13 +58,13 @@
 
 ### 1. What problems or difficulties did you observe?
 
-> *Write your answer here.*
+> Big numbers are being handled in a physical, handwritten manner through a notebook where information could easily be modified, lost or tampered with. 
 
 <br>
 
 ### 2. Which part of the process could be improved or automated?
 
-> *Write your answer here.*
+> Written data will be transferred to a digital, secure database where only authorized people like the main cashier could manage and access.
 
 <br>
 
