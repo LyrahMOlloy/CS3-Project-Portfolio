@@ -9,12 +9,12 @@
 | Information                | Details |
 | -------------------------- | ------- |
 | **Proposed Project Title** |         |
-| **Team Members**           | 1.      |
-|                            | 2.      |
-|                            | 3.      |
-|                            | 4.      |
-|                            | 5.      |
-|                            | 6.      |
+| **Team Members**           | 1. Chuang, Ethan      |
+|                            | 2. Felisan, Roan Jade     |
+|                            | 3. Lara, Zoe Margareth     |
+|                            | 4. Malaton, Lemuel     |
+|                            | 5. Olloy, Lyrah Ingrid     |
+|                            | 6. Suriba, Chanelle Natalia     |
 | **PSHS-DRC Area/Location** |         |
 
 ---
