@@ -90,6 +90,6 @@ The proposed system would digitally record each student’s prepaid balance, pur
 
 | Feature | Purpose |
 | ------- | ------- |
-| 1.      |         |
-| 2.      |         |
-| 3.      |         |
+| 1. Digital Student Balance Tracker | Replaces the paper notebook and stores student balances digitally |
+| 2. Automatic Debt/Utang Block | Tracks running debt and prevents sales to students who hit their credit limit |
+| 3. Transaction History Log | Makes a record of purchases to serve as proof of payment |
