@@ -23,13 +23,12 @@
 
 ### 1. What process did you observe?
 
-> This process is called “The Pre-Paid Notebook”. The function of the notebook is basically when parents give the money to the canteen in advance. For example, the parents give 2000 pesos to the canteen in advanced for the prepaid notebook, so your future meals will basically deduct from the 2000 given by your parents. When your notebooks money reaches to the negatives AKA “utang”, the canteen will urge you to pay the money that you owe, if you don’t pay your debt in a certain time period, the canteen will not allow you to purchase their items.
-
+> This process is called “The Pre-Paid Notebook”. 
 <br>
 
 ### 2. What is the purpose of this process?
 
-> 77
+> The function of the notebook is basically when parents give the money to the canteen in advance. For example, the parents give 2000 pesos to the canteen in advanced for the prepaid notebook, so your future meals will basically deduct from the 2000 given by your parents. When your notebooks money reaches to the negatives AKA “utang”, the canteen will urge you to pay the money that you owe, if you don’t pay your debt in a certain time period, the canteen will not allow you to purchase their items.
 
 <br>
 
