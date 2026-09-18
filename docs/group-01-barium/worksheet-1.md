@@ -29,7 +29,7 @@
 
 ### 2. What is the purpose of this process?
 
-> *Write your answer here.*
+> 77
 
 <br>
 
@@ -39,8 +39,8 @@
 
 | Person/Role | Responsibility in the Process |
 | ----------- | ----------------------------- |
-| 1.          |                               |
-| 2.          |                               |
+| 1. Canteen Staff          |They are the ones taking note of the advance payments given by the parents of the students.                               |
+| 2. Students         |The ones purchasing canteen products using the qdvance payments given  by their parents.                              |
 
 ### 4. What are the steps in the current process?
 
