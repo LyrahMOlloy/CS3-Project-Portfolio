@@ -74,16 +74,16 @@
 
 ### 1. What would your proposed system do?
 
-> *Write your answer here.*
+The proposed system would digitally record each student’s prepaid balance, purchases, and debts. It would automatically deduct the cost of each purchase from the student’s balance and show when the balance becomes negative.
 
 <br>
 
 ### 2. Who would use the system?
 
-| User/Role | Possible Use |
-| --------- | ------------ |
-| 1.        |              |
-| 2.        |              |
+|    User/Role    | Possible Use                                                                            |
+| --------------- | --------------------------------------------------------------------------------------- |
+| 1. Main Cashier | Manage student balances, record payments and purchases, and update account information. |
+| 2. Student      | Check their current prepaid balance and view their purchase or debt records.            |
 
 ### 3. What are the essential features?
 
