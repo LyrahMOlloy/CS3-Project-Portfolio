@@ -1,4 +1,3 @@
-
 # WORKSHEET 2
 ## Identify Objects, Classes, and Relationships
 
@@ -164,9 +163,3 @@ Determine how your identified classes are related to one another.
 
 **Reminder:** Use only the relationship types that make sense for your proposed system. Not all relationship types are required.
 
----
-
-**Prepared by:**
-
-**Maureen D. Agrazamendez**  
-SST I
