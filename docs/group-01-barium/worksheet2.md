@@ -15,8 +15,8 @@ If you were going to create a program for this process, what things would the pr
 
 | No. | Object | Description |
 |:---:|---|---|
-| 1 | | |
-| 2 | | |
+| 1 |Student |Orders food, pays food, can pay utang or add to prepaid wallet|
+| 2 |Parent |Orders food, pays food, can pay utang or add to prepaid wallet of an existing student|
 | 3 | | |
 | 4 | | |
 | 5 | | |
