@@ -17,10 +17,10 @@ If you were going to create a program for this process, what things would the pr
 |:---:|---|---|
 | 1 |Student |Orders food, pays food, can pay utang or add to prepaid wallet|
 | 2 |Parent |Orders food, pays food, can pay utang or add to prepaid wallet of an existing student|
-| 3 | | |
-| 4 | | |
-| 5 | | |
-| 6 | | |
+| 3 |Cashier |Processes payments and orders |
+| 4 |Order |Contains the food and drinks that comprise the student's order along with their prices. |
+| 5 |Price Manager |Can edit prices of the food & drinks |
+| 6 |Balance/Wallet |The balance of a student. |
 | 7 | | |
 | 8 | | |
 | 9 | | |
@@ -48,7 +48,7 @@ Determine how your identified objects interact with one another.
 
 | No. | Object 1 | Interacts | Object 2 |
 |:---:|---|---|---|
-| 1 | | | |
+| 1 |Student |pays |order |
 | 2 | | | |
 | 3 | | | |
 | 4 | | | |
@@ -67,8 +67,8 @@ Not every object needs to become a class. Choose only the objects that are impor
 
 | No. | Class | What does it represent? |
 |:---:|---|---|
-| 1 | | |
-| 2 | | |
+| 1 |Customer |Student and Parent, they can buy food and add money to their balance. |
+| 2 |Staff |Manages payments, Student balances, orders, prices |
 | 3 | | |
 | 4 | | |
 | 5 | | |
@@ -81,7 +81,7 @@ Analyze the attributes and methods of each identified class.
 
 ### Class No. 1
 
-**Class Name:** __________________________________
+**Class Name:** Customer
 
 **Purpose:**  
 __________________________________________________
