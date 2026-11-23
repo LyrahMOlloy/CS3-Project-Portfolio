@@ -2,12 +2,13 @@
 
 ## Members
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+1. Chuang, Ethan
+2. Felisan, Roan Jade 
+3. Lara, Zoe Margareth
+4. Malaton, Lemuel B.
+5. Olloy, Lyrah Ingrid M.
+6. Suriba, Chanelle
+   
 
 ## Project Title
 
